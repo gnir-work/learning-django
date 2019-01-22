@@ -1,2 +1,4 @@
 learning-django-1.8
 .vscode
+**/*.pyc
+pollsite/pollsite.sqlite3
